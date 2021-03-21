@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+body {
+    margin-right: 20%;
+    font-family: "Permanent Marker", cursive;
+}
+.ml15 {
+    font-weight: 800;
+    font-size: 3.8em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+}
+
+.ml15 .word {
+    margin-top: 0.7em;
+    margin-bottom: 0.7em;
+    margin-left: 2em;
+    display: inline-block;
+    line-height: 1em;
+}
+
+
+
